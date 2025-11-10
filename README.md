@@ -1,6 +1,5 @@
 ---
 
-```markdown
 # CSS Grid Dashboard
 
 A **responsive dashboard** built using the **CSS Grid layout system**.
